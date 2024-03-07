@@ -22,3 +22,16 @@
     left: 797px;
     text-align: center;
 }
+#text2{
+    border: 2px solid black;
+    background-color: hotpink;
+    color:black;
+    font:bolder;
+    font-size: larger;
+    z-index: 2;
+    position: absolute;
+    max-width: 250px;
+    top: 345px;
+    left: 470px;
+    text-align: center;
+}
